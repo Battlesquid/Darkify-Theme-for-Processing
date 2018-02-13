@@ -8,3 +8,5 @@ A dark theme for the Processing Development Environment
 4. On your computer, navigate to `AppData/Roaming/Processing/`. You can also open Processing and navigate to the folder using `File->Preferences` and clicking on the preferences path at the bottom. Be sure to close Processing when you have the folder open, as changes will not be saved when Processing is running.
 5. Replace the `preferences.txt` with the Darkify `preferences.txt`.
 6. Enjoy!
+
+![Darkify Screenshot](2018-02-12.png "Darkify Screenshot")
